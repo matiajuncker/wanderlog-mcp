@@ -1,0 +1,10 @@
+{
+  "name": "wanderlog-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for Wanderlog \u2014 build and edit trip itineraries through conversation",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
