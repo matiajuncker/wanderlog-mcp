@@ -1,6 +1,6 @@
 {
   "name": "wanderlog-mcp",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "MCP server for Wanderlog \u2014 build and edit trip itineraries through conversation",
   "main": "src/index.ts",
   "scripts": {
